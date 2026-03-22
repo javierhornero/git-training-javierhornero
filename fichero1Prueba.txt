@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Buscando error
 venga sal de una vez error
+=======
+Busca el error de una vez
+>>>>>>> feature/jhm

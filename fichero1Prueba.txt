@@ -1,4 +1,2 @@
-Primera línea
-Añado más contenido a mi fichero.
-Seguimos avanzando en la práctica.
-Soy la 4 línea desde IntelliJ
+Esto es una nueva funcionalidad que estoy creando en una nueva rama.
+JVH

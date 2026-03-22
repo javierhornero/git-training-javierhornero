@@ -1,3 +1,1 @@
-Esto es una nueva funcionalidad que estoy creando en una nueva rama.
-JVH
-Modificado desde Intelli
+Primera línea desde MAIN
